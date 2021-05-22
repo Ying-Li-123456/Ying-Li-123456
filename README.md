@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tina. Welcome to my GitHub ~
 - 👀 I’m interested in coding, project management, web development.
-- 🌱 I’m a Master of Computing and Innovation in the University of Adelaide.
+- 🌱 I’m currently studying in the University of Adelaide.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me ying0417001@gmail.com
 
